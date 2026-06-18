@@ -1,0 +1,36 @@
+body{
+    background:#020617;
+    color:white;
+    font-family:Arial;
+}
+
+.interview-card{
+    max-width:800px;
+    margin:auto;
+    background:#111827;
+    padding:40px;
+    border-radius:24px;
+}
+
+.question-box{
+    background:#1e293b;
+    padding:25px;
+    border-radius:18px;
+}
+
+.timer{
+    margin:25px 0;
+    font-size:2rem;
+    font-weight:bold;
+    text-align:center;
+}
+
+.answer-box{
+    min-height:200px;
+    margin-bottom:25px;
+}
+
+.button-group{
+    display:flex;
+    gap:15px;
+}

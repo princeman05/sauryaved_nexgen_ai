@@ -1,0 +1,10 @@
+[
+    {
+        "question": "What is Python?",
+        "keywords": ["language", "programming"]
+    },
+    {
+        "question": "Explain OOP",
+        "keywords": ["class", "object", "inheritance"]
+    }
+]
