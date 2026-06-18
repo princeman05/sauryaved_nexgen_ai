@@ -11,3 +11,4 @@ SpeechRecognition==3.10.4
 pyttsx3==2.90
 deep-translator==1.11.4
 opencv-python-headless==4.10.0.84
+reportlab==4.2.2
